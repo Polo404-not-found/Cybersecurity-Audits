@@ -38,10 +38,16 @@ CTF platforms, or with explicit permission).
 ### Tools
 Custom security tools I build.
 - [ESP32 Passive Scanner] - Passive WiFi network scanner with ESP32
+```
+  https://github.com/Polo404-not-found/esp32-wifi-scanner
+```
 
 ### Audits
 Security analysis of applications.
 - [your-simple-finances] - REST API audit (FastAPI)
+```
+  https://github.com/Polo404-not-found/your-simple-finances
+```
 
 ### Notes
 Study notes organized by topic.
