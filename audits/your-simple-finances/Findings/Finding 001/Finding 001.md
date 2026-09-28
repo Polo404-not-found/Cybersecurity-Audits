@@ -84,13 +84,13 @@ authentication.
 
 ## Evidence
 
-[Evidence 1](../Evidence/Evidence1.png) - Adding a transaction without credentials.
+[Evidence 1](https://github.com/Polo404-not-found/Cybersecurity-Audits/tree/main/audits/your-simple-finances/Findings/Finding%20001/Evidence/Evidence1.png) - Adding a transaction without credentials.
 
-[Evidence 2](../Evidence/Evidence2.png) - Retrieving transactions without credentials.
+[Evidence 2](https://github.com/Polo404-not-found/Cybersecurity-Audits/tree/main/audits/your-simple-finances/Findings/Finding%20001/Evidence/Evidence2.png) - Retrieving transactions without credentials.
 
-[Evidence 3](../Evidence/Evidence3.png) - Code
+[Evidence 3](https://github.com/Polo404-not-found/Cybersecurity-Audits/tree/main/audits/your-simple-finances/Findings/Finding%20001/Evidence/Evidence3.png) - Code
 
-[Evidence 4](../Evidence/Evidence4.png) - Code
+[Evidence 4](https://github.com/Polo404-not-found/Cybersecurity-Audits/tree/main/audits/your-simple-finances/Findings/Finding%20001/Evidence/Evidence4.png) - Code
 
 ---
 
