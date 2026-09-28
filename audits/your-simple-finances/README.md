@@ -61,7 +61,7 @@ Framework: OWASP API Security Top 10 (2023)
 ---
 
 ## Finding
-- [Finding 001: No authentication](https://github.com/Polo404-not-found/Cybersecurity-Audits/edit/main/audits/your-simple-finances/Findings/Finding001/Evidence)
+- [Finding 001: No authentication](https://github.com/Polo404-not-found/Cybersecurity-Audits/edit/main/audits/your-simple-finances/Findings/Finding%20001)
 ---
 
 ## Severity Definitions
